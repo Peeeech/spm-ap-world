@@ -1,0 +1,2 @@
+this yaml is provided as a barebones test to be able to set up the hosting client and connect from an actual AP client session
+dont @ me
